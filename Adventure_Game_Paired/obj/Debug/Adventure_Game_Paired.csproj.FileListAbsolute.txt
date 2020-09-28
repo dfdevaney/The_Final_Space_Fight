@@ -1,0 +1,7 @@
+C:\Users\Tomislav Kraljic\source\repos\Adventure_Game_Paired\Adventure_Game_Paired\bin\Debug\Adventure_Game_Paired.exe.config
+C:\Users\Tomislav Kraljic\source\repos\Adventure_Game_Paired\Adventure_Game_Paired\bin\Debug\Adventure_Game_Paired.exe
+C:\Users\Tomislav Kraljic\source\repos\Adventure_Game_Paired\Adventure_Game_Paired\bin\Debug\Adventure_Game_Paired.pdb
+C:\Users\Tomislav Kraljic\source\repos\Adventure_Game_Paired\Adventure_Game_Paired\obj\Debug\Adventure_Game_Paired.csprojAssemblyReference.cache
+C:\Users\Tomislav Kraljic\source\repos\Adventure_Game_Paired\Adventure_Game_Paired\obj\Debug\Adventure_Game_Paired.csproj.CoreCompileInputs.cache
+C:\Users\Tomislav Kraljic\source\repos\Adventure_Game_Paired\Adventure_Game_Paired\obj\Debug\Adventure_Game_Paired.exe
+C:\Users\Tomislav Kraljic\source\repos\Adventure_Game_Paired\Adventure_Game_Paired\obj\Debug\Adventure_Game_Paired.pdb
